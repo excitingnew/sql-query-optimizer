@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+.gradle/
+build/
+out/
+.idea/
+.run/
+*.iml
+/baze-kt-fat.jar
